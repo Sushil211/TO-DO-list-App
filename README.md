@@ -6,4 +6,4 @@ MongoDB || Express || Node.js
 --------------------------------------------------------------------------
 
 You can create as many new lists as you can by changing the name of the route.
-visit the website <a href="https://secure-springs-40981.herokuapp.com/Work">My todo list app</a>
+visit the website <a href="https://secure-springs-40981.herokuapp.com">My todo list app</a>
